@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://ninety-oranges-create.loca.lt",
+  "events": ["taskCreated"],
+  "space_id": "90155428741"
+}

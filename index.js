@@ -28,7 +28,7 @@ app.post('/', async (req, res) => {
       });
       console.log('Task created:', task.name);
     } catch (error) {
-      console.error('Error fetching task details:', error.message);
+      console.error('Error fetching task details: blbla', error.message);
     }
   }
 

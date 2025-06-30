@@ -6,4 +6,4 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "U PUSHED2!"
+      - run: echo "U PUSHED but i changed it!"
